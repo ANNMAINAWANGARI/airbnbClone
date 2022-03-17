@@ -11,8 +11,8 @@ function Banner() {
       />
       <div className="absolute top-1/2 w-full text-center text-white">
         <p className="text-base sm:text-lg font-bold">Not sure where to go ? Perfect</p>
-        <button className="text-purple-500 bg-white px-10 py-4 shadow-md rounded-full font-bold my-3 hover:shadow-xl active-scale-90 transition duration-150">
-          I&apos;m flexible
+        <button className="text-black bg-white px-10 py-4 shadow-md rounded-full font-bold my-3 hover:shadow-xl active-scale-90 transition duration-150">
+          Explore Now
         </button>
       </div>
     </div>
